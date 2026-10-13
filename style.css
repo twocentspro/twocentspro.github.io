@@ -8,6 +8,7 @@ header.site p{color:#777;font-style:italic;margin-top:6px}
 nav{padding:12px 0;border-bottom:1px solid #e5ddc4;text-align:center;font-family:Arial,Helvetica,sans-serif;font-size:.85rem}
 nav a{margin:0 10px;color:#6b5a2a;text-decoration:none}
 nav a:hover{text-decoration:underline}
+.navlabel{color:#999;font-style:italic}
 main{padding:28px 0}
 article.post h2,article.page h2{font-size:1.6rem;margin-bottom:6px}
 .meta{color:#999;font-size:.82rem;font-family:Arial,Helvetica,sans-serif;margin-bottom:14px}
